@@ -1,16 +1,11 @@
 # flutter_clean_arch
 
-A new Flutter project.
+A Flutter Clean Architecture Sample That uses the best guidlines to build clean and robus apps, with features like retrieving data from Remote APIs and Saved to local Database. 
 
-## Getting Started
+### 📱 Screenshots  
+| Feed | Details | Saved | 
+|------|--------|------------|
+|![Screen1-NewsFeed](https://github.com/shawaf/flutter_clean_arch/assets/6817107/0d85370f-1c72-49d5-9c7c-c0536008511a) | ![Screen2-Details](https://github.com/shawaf/flutter_clean_arch/assets/6817107/edb5c114-5564-4937-8e90-5e9447135483) | ![Screen3-Saved](https://github.com/shawaf/flutter_clean_arch/assets/6817107/1de381de-8cfb-4717-863f-df0cda7b5b4c) |
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
